@@ -1,0 +1,1 @@
+El programa saca un número aleatorio comprendido entre 0 y 1. Después saca un mensaje por consola con el número y expresando si éste número es mayor o menor/igual de 0,5.
